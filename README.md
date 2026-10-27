@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="assets/icon.png" alt="Herald" width="120" height="120" />
+<img src="assets/icon.png" alt="Farol" width="120" height="120" />
 
-# Herald - File-based API client
+# Farol - File-based API client
 
 **A self-hosted, file-based API client — everything is stored as plain YAML files you own.**
 
-<sub>Formerly known as FACT (File-based API Client Tool). The repo, Docker image and app-data folder keep the <code>fact</code> name, so existing installs keep working.</sub>
+<sub>Formerly known as FACT (File-based API Client Tool). The repo and Docker image keep the <code>fact</code> name, so existing links keep working, and the desktop app migrates your FACT data on first launch.</sub>
 
 Git-friendly. Diff-friendly. No accounts, no cloud sync, no vendor lock-in.
 
 </div>
 
-<div align="center"><img src="assets/screenshots/demo.gif" alt="Herald demo" width="820" /></div>
+<div align="center"><img src="assets/screenshots/demo.gif" alt="Farol demo" width="820" /></div>
 
 ---
 
 ## What is it?
 
-Herald is a desktop and Docker app for building, sending, and testing HTTP requests. The difference from a typical API client is **where your data lives**: every collection, request, and environment is a human-readable **YAML file on your disk**, not locked inside a proprietary cloud account.
+Farol is a desktop and Docker app for building, sending, and testing HTTP requests. The difference from a typical API client is **where your data lives**: every collection, request, and environment is a human-readable **YAML file on your disk**, not locked inside a proprietary cloud account.
 
 That makes your API workspace behave like the rest of your codebase:
 
