@@ -6,7 +6,7 @@
 
 **A self-hosted, file-based API client — everything is stored as plain YAML files you own.**
 
-<sub>Formerly known as FACT (File-based API Client Tool). The repo and Docker image keep the <code>fact</code> name, so existing links keep working, and the desktop app migrates your FACT data on first launch.</sub>
+<sub>Formerly known as FACT (File-based API Client Tool). The repo and Docker image are now <code>farol</code> (GitHub redirects the old <code>fact</code> links), and the desktop app migrates your FACT data on first launch.</sub>
 
 Git-friendly. Diff-friendly. No accounts, no cloud sync, no vendor lock-in.
 
