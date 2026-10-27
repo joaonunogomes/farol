@@ -49,7 +49,7 @@ If you've ever wanted your API requests to live *next to* the code they test, th
 
 ## Install
 
-> For full installation instructions and downloads, see the [**website**](https://joaonunogomes.github.io/api-testing-client/#install).
+> For full installation instructions and downloads, see the [**website**](https://joaonunogomes.github.io/farol/#install).
 
 ### Desktop app
 
@@ -71,7 +71,7 @@ A multi-arch image (`linux/amd64` + `linux/arm64`) is published with every relea
 # Run the latest release, mounting your own workspace folder
 docker run -p 47821:47821 \
   -v $(pwd)/my-api-workspace:/workspace \
-  ghcr.io/joaonunogomes/api-testing-client:latest
+  ghcr.io/joaonunogomes/farol:latest
 ```
 
 Then open **[http://localhost:47821](http://localhost:47821)**.
